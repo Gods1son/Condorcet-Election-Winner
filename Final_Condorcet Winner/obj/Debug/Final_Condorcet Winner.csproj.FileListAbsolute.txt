@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\bin\Debug\Final_Condorcet Winner.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\bin\Debug\Final_Condorcet Winner.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\bin\Debug\Final_Condorcet Winner.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet_Winner.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Final_Condorcet Winner\Final_Condorcet Winner\obj\Debug\Final_Condorcet Winner.pdb
